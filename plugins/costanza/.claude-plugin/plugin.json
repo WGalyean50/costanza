@@ -1,0 +1,11 @@
+{
+  "name": "costanza",
+  "version": "1.0.0",
+  "description": "The Opposite - when everything fails, do the opposite of your instincts",
+  "author": {
+    "name": "Art Vandelay",
+    "email": "art@vandelayindustries.com"
+  },
+  "homepage": "https://github.com/WGalyean50/costanza",
+  "keywords": ["agent", "loop", "opposite", "seinfeld", "george-costanza"]
+}
