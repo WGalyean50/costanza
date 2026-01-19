@@ -1,12 +1,12 @@
 ---
 name: ralph-heavy
-description: "Wolf Wiggum - disciplined Ralph loop with learnings, rules, progress tracking, and feature-by-feature execution"
+description: "Ralph Heavy - disciplined loop with learnings, rules, progress tracking, and feature-by-feature execution"
 argument-hint: "[TASK_DESCRIPTION] [--max-iterations N]"
 ---
 
-# Ralph Heavy (Wolf Wiggum)
+# Ralph Heavy
 
-This command combines Ralph Wiggum's persistence with disciplined agent memory scaffolding:
+This command provides disciplined agent memory scaffolding:
 - **learnings.md**: Discoveries and surprises (session-specific)
 - **rules/**: Established knowledge (reusable across sessions)
 - **progress.md**: Session history and state tracking
