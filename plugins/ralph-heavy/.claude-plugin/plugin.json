@@ -1,0 +1,10 @@
+{
+  "name": "ralph-heavy",
+  "version": "1.0.0",
+  "description": "Ralph, with learning loops",
+  "author": {
+    "name": "Wilson Gramer",
+    "email": "wilson@0wg.studio"
+  },
+  "homepage": "https://github.com/wg-studio-dev/wg-studio-devkit"
+}
